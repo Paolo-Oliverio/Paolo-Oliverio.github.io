@@ -6,38 +6,28 @@
     <description>Recent content on Polyartech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2015 19:10:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2015 18:43:46 +0100</lastBuildDate>
     <atom:link href="http://100.100.100.101:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Stocazzo</title>
-      <link>http://100.100.100.101:1313/post/Post5/</link>
-      <pubDate>Tue, 24 Nov 2015 19:10:52 +0100</pubDate>
+      <title>Arcade Blues</title>
+      <link>http://100.100.100.101:1313/post/First/</link>
+      <pubDate>Wed, 18 Nov 2015 18:43:46 +0100</pubDate>
       
-      <guid>http://100.100.100.101:1313/post/Post5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+      <guid>http://100.100.100.101:1313/post/First/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headlinek:2319d5664ef3d60126e816de010e47e0&#34;&gt;A headlinek&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;h2 id=&#34;stronzo:2319d5664ef3d60126e816de010e47e0&#34;&gt;Stronzo&lt;/h2&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
 &lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Post4</title>
-      <link>http://100.100.100.101:1313/post/Post4/</link>
-      <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
-      
-      <guid>http://100.100.100.101:1313/post/Post4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://100.100.100.101:1313/images/open-file.png&#34;&gt;&lt;br /&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
@@ -74,6 +64,22 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
     </item>
     
     <item>
+      <title>Post4</title>
+      <link>http://100.100.100.101:1313/post/Post4/</link>
+      <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
+      
+      <guid>http://100.100.100.101:1313/post/Post4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://100.100.100.101:1313/images/open-file.png&#34;&gt;&lt;br /&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Polyartech</title>
       <link>http://100.100.100.101:1313/post/Post6/</link>
       <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
@@ -93,18 +99,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
     </item>
     
     <item>
-      <title>Arcade Blues</title>
-      <link>http://100.100.100.101:1313/post/First/</link>
-      <pubDate>Wed, 18 Nov 2015 18:43:46 +0100</pubDate>
+      <title>Stocazzo</title>
+      <link>http://100.100.100.101:1313/post/Post5/</link>
+      <pubDate>Tue, 24 Nov 2015 19:10:52 +0100</pubDate>
       
-      <guid>http://100.100.100.101:1313/post/First/</guid>
-      <description>
-
-&lt;h2 id=&#34;a-headlinek:2319d5664ef3d60126e816de010e47e0&#34;&gt;A headlinek&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-
-&lt;h2 id=&#34;stronzo:2319d5664ef3d60126e816de010e47e0&#34;&gt;Stronzo&lt;/h2&gt;
+      <guid>http://100.100.100.101:1313/post/Post5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
 

@@ -2162,7 +2162,8 @@ a {
   color: #4081A9; }
 
 h1, h2 {
-  font-family: 'Alfa Slab One', cursive; }
+  font-family: 'Alfa Slab One', cursive;
+  color: #4081A9; }
   h1 a, h2 a {
     text-decoration: none;
     color: #4081A9; }
@@ -2173,7 +2174,6 @@ h1 {
 
 h2 {
   font-size: 120%;
-  color: #9491BC;
   margin-bottom: 0.5rem; }
 
 p {

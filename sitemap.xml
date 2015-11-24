@@ -8,13 +8,8 @@
   </url>
   
   <url>
-    <loc>http://100.100.100.101:1313/post/Post5/</loc>
-    <lastmod>2015-11-24T19:10:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://100.100.100.101:1313/post/Post4/</loc>
-    <lastmod>2015-11-18T19:10:52+01:00</lastmod>
+    <loc>http://100.100.100.101:1313/post/First/</loc>
+    <lastmod>2015-11-18T18:43:46+01:00</lastmod>
   </url>
   
   <url>
@@ -28,13 +23,18 @@
   </url>
   
   <url>
+    <loc>http://100.100.100.101:1313/post/Post4/</loc>
+    <lastmod>2015-11-18T19:10:52+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://100.100.100.101:1313/post/Post6/</loc>
     <lastmod>2015-11-18T19:10:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://100.100.100.101:1313/post/First/</loc>
-    <lastmod>2015-11-18T18:43:46+01:00</lastmod>
+    <loc>http://100.100.100.101:1313/post/Post5/</loc>
+    <lastmod>2015-11-24T19:10:52+01:00</lastmod>
   </url>
   
 </urlset>
