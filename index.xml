@@ -32,12 +32,12 @@
     </item>
     
     <item>
-      <title>Titolo Post</title>
-      <link>http://paolo-oliverio.github.io/post/Post2/</link>
+      <title>Mustang</title>
+      <link>http://paolo-oliverio.github.io/post/Post4/</link>
       <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
       
-      <guid>http://paolo-oliverio.github.io/post/Post2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/open-file.png&#34;&gt;&lt;br /&gt;
+      <guid>http://paolo-oliverio.github.io/post/Post4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/car.jpg&#34;&gt;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
@@ -48,12 +48,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
     </item>
     
     <item>
-      <title>Post4</title>
-      <link>http://paolo-oliverio.github.io/post/Post4/</link>
+      <title>BubbleChainPop</title>
+      <link>http://paolo-oliverio.github.io/post/Post2/</link>
       <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
       
-      <guid>http://paolo-oliverio.github.io/post/Post4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/open-file.png&#34;&gt;&lt;br /&gt;
+      <guid>http://paolo-oliverio.github.io/post/Post2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/bubblechain.png&#34;&gt;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
@@ -83,12 +83,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
     </item>
     
     <item>
-      <title>Post3</title>
+      <title>.44 Magnum</title>
       <link>http://paolo-oliverio.github.io/post/Post3/</link>
       <pubDate>Wed, 18 Nov 2015 19:10:52 +0100</pubDate>
       
       <guid>http://paolo-oliverio.github.io/post/Post3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/open-file.png&#34;&gt;&lt;br /&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://paolo-oliverio.github.io/images/pistola.jpg&#34;&gt;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
